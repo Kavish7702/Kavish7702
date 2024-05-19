@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavish Singh</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate fullstack developer </h3>
 
 - 👨‍💻 All of my projects are available at [https://moonlit-custard-9ed802.netlify.app/](https://moonlit-custard-9ed802.netlify.app/)
 
